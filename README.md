@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an article about feature selection and hepatitis](https://github.com/danielmacedodc/Projeto-2---SiDi---VC)
 
-- 🌱 I’m currently learning **Java, Python, Machine Learning, and Android**
+- 🌱 I’m currently learning **Java, Python, Machine Learning, Deep Learning and Android**
 
 - 💬 Ask me about **Python, C, Java, R, Data Science and Data Analysis**
 
