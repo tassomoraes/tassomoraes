@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasso Moraes</h1>
 <h3 align="center">A student of a specialization in computer vision at UFPE in partnership with SiDi and SAMSUNG</h3>
 
-- 🔭 I’m currently working on a deep learning project using histopathological images. #[an article about feature selection and hepatitis](https://github.com/danielmacedodc/Projeto-2---SiDi---VC)
+- 🔭 I’m currently working on a deep learning project using histopathological images.
 
 - 🌱 I’m currently learning **Python, Machine Learning and Deep Learning**
 
